@@ -1,39 +1,139 @@
-<p align="center"><img src="https://img.shields.io/badge/DEAR%20MOTHER FUCKER-DON'T COPY MY STYLE-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
- 
-<h3 align="center">
-  
-  <p align="center"><img src="https://img.shields.io/badge/WLCM%20TO -MR. NAYAN PROFILE-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">  
-  
-</h3>
+<!DOCTYPE html>
+<html class='v2' dir='ltr' lang='en-US' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+	<head>
+		<title>MOHAMMAD NAYAN - Info</title>
+<meta content='width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0' name='viewport'/>
+<link href='https://i.imgur.com/l5UJMh8.png' rel='shortcut icon' type='image/x-icon'/>
+<meta content='https://wa.me/+8801615298449' property='og:image'/>
+<meta content='http://mohammadnayan447@gmail.com/' property='og:url'/>
+<meta content='website' property='og:type'/>
+<meta content='MOHAMMAD NAYAN' property='og:title'/>
+<meta content='Built and developed by MOHAMMAD NAYAN' property='og:description'/>
+<link href='https://cdn.leanhduc.pro.vn/font-awesome/pro-5.15.3/css/all.css' rel='stylesheet'/>
+<link href='https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css' rel='stylesheet'/>
+<link href='https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.3.4/sweetalert2.css' rel='stylesheet'/>
+<!-- Start css-->
+<style id='page-skin-1' type='text/css'><!--
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");@import url("https://fonts.googleapis.com/css?family=Dancing+Script|Lobster|Pattaya|Srisakdi&display=swap");html,body{cursor:url("https://cdn.leanhduc.pro.vn/theme/theme-thong-tin-lien-he-version-2-0/images/mouse-f1.png"),auto}a:hover{cursor:url("https://cdn.leanhduc.pro.vn/theme/theme-thong-tin-lien-he-version-2-0/images/mouse-f2.png"),auto}.loader{background:#4568dc;background:-webkit-linear-gradient(to right,#b06ab3,#4568dc);background:linear-gradient(to right,#b06ab3,#4568dc);opacity:0.6;bottom:0;left:0;overflow:hidden;position:fixed;right:0;top:0;z-index:99999}.loader-inner{bottom:0;height:60px;left:0;margin:auto;position:absolute;right:0;top:0;width:100px}.loader-line-wrap{animation:spin 2000ms cubic-bezier(0.175,0.885,0.32,1.275) infinite;box-sizing:border-box;height:50px;left:0;overflow:hidden;position:absolute;top:0;transform-origin:50% 100%;width:100px}.loader-line{border:4px solid transparent;border-radius:100%;box-sizing:border-box;height:100px;left:0;margin:0 auto;position:absolute;right:0;top:0;width:100px}.loader-line-wrap:nth-child(1){animation-delay:-50ms}.loader-line-wrap:nth-child(2){animation-delay:-100ms}.loader-line-wrap:nth-child(3){animation-delay:-150ms}.loader-line-wrap:nth-child(4){animation-delay:-200ms}.loader-line-wrap:nth-child(5){animation-delay:-250ms}.loader-line-wrap:nth-child(1) .loader-line{border-color:hsl(0,80%,60%);height:90px;width:90px;top:7px}.loader-line-wrap:nth-child(2) .loader-line{border-color:hsl(60,80%,60%);height:76px;width:76px;top:14px}.loader-line-wrap:nth-child(3) .loader-line{border-color:hsl(120,80%,60%);height:62px;width:62px;top:21px}.loader-line-wrap:nth-child(4) .loader-line{border-color:hsl(180,80%,60%);height:48px;width:48px;top:28px}.loader-line-wrap:nth-child(5) .loader-line{border-color:hsl(240,80%,60%);height:34px;width:34px;top:35px}@keyframes spin{0%,15%{transform:rotate(0)}100%{transform:rotate(360deg)}}*{font-family:"Roboto";padding:0;margin:0}.border{position:relative;width:50%;height:2px;background-color:rgb(138,138,138)}#boxs{margin-top:3px}#bg{position:fixed;min-height:100vh;min-width:100%;background-image:url("https://i.postimg.cc/KcKPnPMM/anime.gif");background-size:cover;background-position:center;margin:0;padding:0;top:0;left:0}#window{position:absolute;min-height:100%;min-width:100%;background-color:#000000;padding:0;top:0;left:0}#main{z-index:2;position:relative;width:450px;padding-bottom:5px;background-color:#ffffffa4;border-radius:25px;margin-top:5px;-webkit-box-shadow:0 0 50px 0 rgba(0,0,0,0.74);box-shadow:0 0 10px 0 rgba(0,0,0,0.74)}#cover{position:relative;height:100%;width:100%;background-image:url("https://i.postimg.cc/wxrfhx4w/tumblr-n991eo-Uv-ZG1s4yh14o1-500.gif");background-position:center;background-size:cover;border-top-left-radius:25px;border-top-right-radius:25px;padding-top:30px;padding-bottom:30px}#bg-cover{position:absolute;height:100%;width:100%;background-image:url("https://i.postimg.cc/wxrfhx4w/tumblr-n991eo-Uv-ZG1s4yh14o1-500.gif");background-position:center;background-size:cover;border-top-left-radius:25px;border-top-right-radius:25px;filter:opacity(0.6)}#avatar{position:relative;background-position:center;background-size:cover;border-radius:100%;border:5px solid #1877f2;-webkit-box-shadow:0 0 50px 0 rgba(0,0,0,0.74);box-shadow:0 0 10px 0 rgba(0,0,0,0.74)}#avatar img{height:200px;width:200px;border-radius:50%;object-fit:cover;position:relative;border:2px solid #fff}.center{display:flex;justify-content:center;align-items:center;flex-direction:column;margin-top:0}#name{text-align:center;font-weight:bold;font-size:30px;margin-top:10px;margin-bottom:0;font-family:"Lobster"}#name i{color:#1877f2;font-size:25px}#bio{text-align:center;margin-top:10px;margin-bottom:10px;font-family:"Roboto";font-size:16px}#contact-text{display:inline-block;padding:2px 15px;border-radius:15px;margin-top:10px;margin:10px auto;text-align:center;font-weight:lighter;font-size:20px;color:#ffffff;background:rgb(45,136,255);background:rgb(45,136,255);background:-moz-linear-gradient(127deg,rgba(45,136,255,1) 0%,rgba(131,186,255,1) 100%);background:-webkit-linear-gradient(127deg,rgba() 0%,rgba(131,186,255,1) 100%);background:linear-gradient(127deg,rgba(45,136,255,1) 0%,rgba(131,186,255,1) 100%);font-family:"Lobster";transition:all 250ms;cursor:default}#contact-text:hover{transform:scale(1.2);padding:2px 55px}.box{height:50px;width:75%;margin:5px auto;border-radius:20px;background:rgb(42,100,173);background:-moz-linear-gradient(127deg,rgba(42,100,173,1) 0%,rgba(45,136,255,1) 100%);background:-webkit-linear-gradient(127deg,rgba(42,100,173,1) 0%,rgba(45,136,255,1) 100%);background:linear-gradient(127deg,rgba(42,100,173,1) 0%,rgba(45,136,255,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#2a64ad",endColorstr="#2d88ff",GradientType=1);-webkit-box-shadow:0 0 50px 0 rgba(0,0,0,0.74);box-shadow:0 0 10px 0 rgba(0,0,0,0.74);z-index:1;transition:all 250ms}.box:hover{padding-right:20px}.icon{display:inline;position:relative;height:50px;width:50px}.icon i{font-size:30px;margin:10px 20px;color:#ffffff;transition:transform 250ms;z-index:2}.icon i:hover{transform:rotate(360deg)}.detail{position:relative;display:block;margin:0 auto;font-size:20px;color:#ffffff;text-align:center;margin-top:10px;transition:all 500ms;font-family:"Roboto"}.col-10{position:relative;max-height:100%}.col-10:hover .detail{filter:opacity(0);z-index:-5}.col-10:hover .linked{filter:opacity(1);z-index:5}.col-10:active .detail{filter:opacity(0);z-index:-5}.col-10:active .linked{filter:opacity(1);z-index:5}.fas{transition:all 250ms}.col-10:hover .fas{transform:rotate(360deg)}.linked{position:relative;margin:0 auto;font-size:20px;color:#ffffff;text-align:center;margin-top:10px;transition:all 500ms;top:-40px;z-index:-2;filter:opacity(0);transition:all 1000ms;font-family:"Roboto"}.div-logo{position:relative;height:30px;width:30px;background-position:center;background-size:cover;margin:10px 20px;z-index:5;transition:all 250ms}.div-logo:hover{transform:rotate(360deg)}@media only screen and (max-width:540px){#main{width:100vw;margin-top:0vw;margin-bottom:0;border-radius:0}#bg-cover{border-radius:0}#window{min-height:100%;min-width:100%}.linked{font-size:19px}}.facebook{background:#3a5795;color:#1c3977;background:linear-gradient(to bottom,#3a5795 0%,#2b4886 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#3a5795),color-stop(100%,#2b4886));background:-webkit-linear-gradient(top,#3a5795 0%,#2b4886 100%);background:-moz-linear-gradient(top,#3a5795 0%,#2b4886 100%);background:-o-linear-gradient(top,#3a5795 0%,#2b4886 100%);background:-ms-linear-gradient(top,#3a5795 0%,#2b4886 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#3A5795',endColorstr='#2B4886',GradientType=0);border:1px solid #1c3977;text-shadow:0 1px 0 #4966a4;-webkit-text-shadow:0 1px 0 #4966a4;-moz-text-shadow:0 1px 0 #4966a4;box-shadow:inset 0 1px 0 #4966a4;-webkit-box-shadow:inset 0 1px 0 #4966a4;-moz-box-shadow:inset 0 1px 0 #4966a4}.messenger{background:#fc466b;background:-webkit-linear-gradient(to right,#3f5efb,#fc466b);background:linear-gradient(to right,#3f5efb,#fc466b)}.tiktok{background:#010101;background:-webkit-linear-gradient(to right,#010101,#6c0016);background:linear-gradient(to right,#010101,#6c0016)}.zalo{background:#0064f7;background:linear-gradient(127deg,#0064f7 0%,#2a7fff 100%)}.zalo-icon{background-image:url("https://cdn.leanhduc.pro.vn/theme/theme-thong-tin-lien-he-version-2-0/images/zalo.png")}.phone{background:#1f1c2c;background:-webkit-linear-gradient(to right,#1f1c2c,#928dab);background:linear-gradient(to right,#1f1c2c,#928dab)}.momo{background:#a80069;background:linear-gradient(127deg,#a80069 0%,#d73193 100%)}.momo-icon{background-image:url("h")}.vietcombank{background:#006c46;background:linear-gradient(127deg,#006c46 0%,#77bc41 100%)}.vietcombank-icon{background-image:url("https://cdn.leanhduc.pro.vn/theme/theme-thong-tin-lien-he-version-2-0/images/vietcombank.png")}.mbbank{background:#1f00cf;background:linear-gradient(127deg,#1f00cf 0%,#006db5 100%)}.mbbank-icon{background-image:url("https://cdn.leanhduc.pro.vn/theme/theme-thong-tin-lien-he-version-2-0/images/mbbank.png")}.badge{font-weight:bold;color:#ffffff;background-color:#2d88ff;padding:0.5px 3px;border-radius:3px;font-size:10px}a{text-decoration:none!important;color:rgb(42,100,173)!important}
 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+Mr-NAYAN+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.NAYAN+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
+--></style>
+	</head>
+	<!-- Start of the Show -->
+	<body>
+      <img src="https://i.imgur.com/SXCtWIU.gif" style="position:fixed;bottom:-3px;height: 120px;right:20px;z-index:9999">
 
-<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
+<!-- main -->
+<div class='center' id='window'>
+<div id='main'>
+<!-- avatar -->
+<div class='center' id='cover'>
+<div id=''></div>
+<div id='avatar'>
+<img alt='avt' src='https://i.postimg.cc/5N4KSFQF/In-Shot-20230503-213115995.gif'/>
+</div>
+</div>
+<div id='content'>
 
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
- 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MR-NAYAN-404&label=Profile%20views&color=eb4d3d&style=flat-square" alt="MR-NAYAN-404" /> </p>
-</i></b></h3>
- 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/MR-NAYAN-404"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MR.NAYAN&theme=monokai"></a>
- 
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 😇 𝐍𝐀𝐌𝐄:- 𝐌𝐑.𝐍𝐀𝐘𝐀𝐍
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🤨 𝐇𝐎𝐁𝐁𝐘 :- 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 📕 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍:- 𝐎𝐍𝐋𝐘 𝐌𝐄😁
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
+<p id='name'>
+						<b>MOHAMMAD NAYAN</b> <i class='fad fa-badge-check'></i>
+						
+						<center> <div id="clock" style="color: darkred; font-family: Kelly+Slab; font-size: 25px;"></div><script type="text/javascript"> function showTime() { var a_p = ""; var today = new Date(); var curr_hour = today.getHours(); var curr_minute = today.getMinutes(); var curr_second = today.getSeconds(); if (curr_hour < 24) { a_p = ""; } else { a_p = ""; } if (curr_hour == 0) { curr_hour = 24; } if (curr_hour > 24) { curr_hour = curr_hour - 24; } curr_hour = checkTime(curr_hour); curr_minute = checkTime(curr_minute); curr_second = checkTime(curr_second); document.getElementById('clock').innerHTML=curr_hour + " : " + curr_minute + " : " + curr_second + " " + a_p; } function checkTime(i) { if (i < 10) { i = "0" + i; } return i; } setInterval(showTime, 500); //--> </script> </center>
+</p>
+<div class='center'>
+<span class='badge'>
+<i class='fas fa-code'></i> MOHAMMAD NAYAN🌸
+						</span>
+</div>
+<p id='bio'>⚜️ WELL  COME TO MY WEB PAGE⚜️ </p>
+<div class='center'>
+<div class='border'></div>
+<p id='contact-text'>MOHAMMAD NAYAN</p>
+</div>
+<!-- contact -->
+<div class='center boxs' id='boxs'>
+<!-- facebook -->
+<div class='box facebook'>
+<div class='row'>
+<div class='col-2'>
+<div class='icon'><i class='fab fa-facebook'></i></div>
+</div>
+<div class='col-10' onclick='openlink("https://www.facebook.com/www.xnxx.com07")'>
+<p class='detail'>Facebook</p>
+<p class='linked'>Mohammad Nayan</p>
+</div>
+</div>
+</div>
+<!-- messenger -->
+<div class='box messenger'>
+<div class='row'>
+<div class='col-2'>
+<div class='icon'>
+<i class='fab fa-facebook-messenger'></i>
+</div>
+</div>
+
+<div class='col-10' onclick='openlink("https://www.m.me/www.xnxx.com07")'>
+<p class='detail'>Messenger</p>
+<p class='linked'>Mohammad Nayan</p>
+</div>
+</div>
+</div>
+<!-- zalo -->
+
+</div>
+</div>
+<!-- phone -->
+<div class='box '>
+<div class='row'>
+<div class='col-2'>
+<div class='icon'>
+<i class='fas fa-phone'></i>
+</div>
+</div>
+<div class='col-10' onclick='openlink("tel:+8801905600093");'>
+<p class='detail'>Personal number</p>
+<p class='linked'>+88016115298449</p>
+</div>
+</div>
+
+</div>
+<p id='bio'>Copyright &#169; <a href='https://info.ducdz999.repl.co/' rel='noopener noreferrer' target='_blank'>TR4-A4IF-V4U</a></p>
+</div>
+</div>
+<div id='bg'></div>
+</div>
+<script src='https://code.jquery.com/jquery-3.6.0.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/sweetalert2@11'></script>
+<script type='text/javascript'>
+			//<![CDATA[
+				// loading
+				$(".loader").delay(1000).fadeOut("fast");
+				// open link
+				function openlink(url) {
+					window.open(url, "_blank").focus();
+				}
+				// click copy
+				function copytext(str) {
+					const el = document.createElement("textarea");
+					el.value = str;
+					document.body.appendChild(el);
+					el.select();
+					document.execCommand("copy");
+					Swal.fire("Notification", "Copy Success!", "success");
+				}
+			//]]>
+		</script>
+<div class='no-items section' id='code.pro.vn'></div>
+	<!--<head>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+</head>-->
+	<!--<body>
+</body>-->
+  <audio autoplay>
+        <source src="https://drive.gocom/uc?export=download&id=1E3QRKHEO42upGMCF4MwvS5xM-awrpB7S" type="audio/mpeg">
+      Your Browser Does Not Support The Audio Element.
+      </audio> 
+	</body>
+	<!-- End of Show -->
+  </html>
