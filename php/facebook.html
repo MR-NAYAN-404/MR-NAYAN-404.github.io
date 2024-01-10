@@ -1,0 +1,408 @@
+<!DOCTYPE html>
+
+<html>
+
+
+
+<head>
+
+    <title>Akatsuki™||Link-sproofer</title>
+
+    <link rel="shortcut icon" href="https://telegra.ph/file/3407e6a3d0f03eee2b3f9.jpg" />
+
+    <meta property="og:title" content="Akatsuki™" />
+
+    <meta property="og:description" content="It is a link sproofer tool for Global hackers." />
+
+    <meta property="og:image" content="https://telegra.ph/file/3407e6a3d0f03eee2b3f9.jpg" />
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+
+    * {
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+    }
+
+    
+
+    body {
+
+    background-color: #000000;
+
+    color: #00ff00;
+
+    font-family: "Courier New", monospace;
+
+    text-align: center;
+
+    }
+
+    
+
+    #logo {
+
+    width: 200px;
+
+    height: 200px;
+
+    margin: 50px auto;
+
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    position: relative;
+
+    }
+
+    
+
+    #logo::before {
+
+    content: "";
+
+    position: absolute;
+
+    top: -5px;
+
+    left: -5px;
+
+    right: -5px;
+
+    bottom: -5px;
+
+    border: 1px solid #00ff00;
+
+    border-radius: 50%;
+
+    animation: glowing-border 2s linear infinite;
+
+    }
+
+    
+
+    @keyframes glowing-border {
+
+    0% {
+
+    box-shadow: 0 0 5px #00ff00;
+
+    }
+
+    50% {
+
+    box-shadow: 0 0 10px #00ff00;
+
+    }
+
+    100% {
+
+    box-shadow: 0 0 5px #00ff00;
+
+    }
+
+    }
+
+    
+
+    #logo img {
+
+    width: 75%;
+
+    height: 75%;
+
+    border-radius: 50%;
+
+    }
+
+    
+
+    .form {
+
+    border: 2px solid #00ff00;
+
+    border-radius: 10px;
+
+    margin: 50px auto;
+
+    padding: 20px;
+
+    max-width: 500px;
+
+    animation: slideIn 1s ease-in-out;
+
+    }
+
+    
+
+    label {
+
+    display: block;
+
+    margin-bottom: 10px;
+
+    color: #00ff00;
+
+    }
+
+    
+
+    input[type="url"] {
+
+    width: 100%;
+
+    padding: 10px;
+
+    border-radius: 5px;
+
+    border: none;
+
+    background-color: #000000;
+
+    color: #00ff00;
+
+    margin-bottom: 10px;
+
+    }
+
+    
+
+    input[type="mask"] {
+
+    width: 100%;
+
+    padding: 10px;
+
+    border-radius: 5px;
+
+    border: none;
+
+    background-color: #000000;
+
+    color: #00ff00;
+
+    margin-bottom: 10px;
+
+    }
+
+    
+
+    input[type="submit"] {
+
+    padding: 10px 20px;
+
+    border-radius: 5px;
+
+    border: none;
+
+    background-color: #ff0000;
+
+    color: #d5dce9;
+
+    cursor: pointer;
+
+    transition: background-color 0.3s ease-in-out;
+
+    }
+
+    
+
+    input[type="submit"]:hover {
+
+    background-color: #008000;
+
+    }
+
+    
+
+    #footer {
+
+    margin-top: 50px;
+
+    padding: 20px;
+
+    background-color: #000000;
+
+    font-family: "Courier New", monospace;
+
+    font-size: 14px;
+
+    }
+
+    
+
+    #footer a {
+
+    font-weight: 700;
+
+    color: #00ff00;
+
+    text-decoration: none;
+
+    }
+
+    
+
+    #footer p {
+
+    margin: 0;
+
+    color: #00ff00;
+
+    }
+
+    
+
+    @keyframes countFadeIn {
+
+    0% {
+
+    opacity: 0;
+
+    transform: scale(0.5);
+
+    }
+
+    100% {
+
+    opacity: 1;
+
+    transform: scale(1);
+
+    }
+
+    }
+
+    
+
+    @keyframes rgbLighting {
+
+    0% {
+
+    color: rgb(255, 0, 0);
+
+    }
+
+    33% {
+
+    color: rgb(0, 255, 0);
+
+    }
+
+    66% {
+
+    color: rgb(0, 0, 255);
+
+    }
+
+    100% {
+
+    color: rgb(255, 0, 0);
+
+    }
+
+    }
+
+    
+
+    #result a {
+
+    animation: rgbLighting 3s linear infinite;
+
+    }
+
+    
+
+    #visitorCount {
+
+    animation: countFadeIn 1s ease-in-out;
+
+    color: #00ff00;
+
+    font-size: 24px;
+
+    }
+
+    </style>
+</head>
+
+
+
+<body>
+
+    <div id="logo">
+
+        <img src="https://telegra.ph/file/3407e6a3d0f03eee2b3f9.jpg" alt="Akatsuki™">
+
+    </div>
+
+
+
+    <div class="form">
+
+        <form method="post">
+
+
+
+            <label for="action">Select Action:</label>
+
+            <br>
+
+            <label for="shorten">Shorten Link</label>
+
+            <input type="radio" id="shorten" name="action" value="shorten" checked>
+
+            <label for="spoof">Spoof Link</label>
+
+            <input type="radio" id="spoof" name="action" value="spoof">
+
+            <label for="redirect">Redirect Link</label>
+
+            <input type="radio" id="redirect" name="action" value="redirect">
+
+            <label for="linkinfo">Link Info</label>
+
+            <input type="radio" id="linkinfo" name="action" value="linkinfo">
+<br><br>
+
+
+
+            <label for="url">Original URL</label>
+
+            <input type="url" id="url" name="url" placeholder="Enter URL with https://" required>
+
+            <br><br>
+
+            <label for="mask">Spoofing URL (optional)</label>
+
+            <input type="url" id="mask" name="mask" placeholder="Enter URL with https://">
+
+            <br><br>
+
+            <input type="submit" value="Submit">
+
+        </form>
+
+        <br>
+
+        <p id="result">
+
+                </p>
+
+        
+
+    </div>
+    <div id="footer">
+
+                    <p>&copy; 2023 <a href="https://t.me/Teamx1337official">TEAM X 1337</a>. Developer: <a href="https://www.facebook.com/profile.php?id=100092835615522&mibextid=ZbWKwL">Sujon Islam</a>.</p>
